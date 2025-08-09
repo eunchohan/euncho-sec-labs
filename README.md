@@ -1,1 +1,1 @@
-# Sec labs
+# Security labs
